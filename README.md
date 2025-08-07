@@ -9,14 +9,14 @@ I'm Bryan Bernardo Parreira, a FullStack Developer specializing in scalable web 
         <img 
             alt="Total stars" 
             title="Total GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/webvisionrank?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/BryanParreira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/Bwebvisionrank?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/webvisionrank?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/BryanParreira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
@@ -142,13 +142,13 @@ I'm Bryan Bernardo Parreira, a FullStack Developer specializing in scalable web 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=webvisionrank&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=BryanParreira&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
   />
 <img 
    align="left" 
    alt="GitHub Stats" 
    height="200" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=webvisionrank&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanParreira&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" 
 />
 </p>
 
