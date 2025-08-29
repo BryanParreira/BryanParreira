@@ -1,6 +1,6 @@
 # Bryan Bernardo Parreira
 
-**`FullStack Developer`**
+**`FullStack AI Developer`**
 
 I'm Bryan Bernardo Parreira, a FullStack Developer specializing in scalable web applications and digital solutions. I focus on solving complex problems through clean, efficient code while staying current with emerging technologies. I continuously expand my expertise in modern frameworks and development best practices, contributing to projects that deliver measurable value for users and businesses.
 
