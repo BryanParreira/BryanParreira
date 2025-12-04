@@ -1,154 +1,97 @@
-# Bryan Bernardo Parreira
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/BryanParreira">Bryan Parreira</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+</p>
+<p>I am a full stack developer, I'm a Competitive Programmer.</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<ul>
+  <li>👋 Hi, I’m @BryanParreira</li>
+  <li>🌱 I’m currently learning about local Dev.</li>
+  <li>💼 I'm a Full Stack Developer.</li>
+</ul>
 
-**`FullStack AI Developer`**
+#### A little more about me
+```javascript
+const badri = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "python", "react", "backend dev"],
+  technologies: {
+      frontend: ["HTML", "CSS", "Tailwind", "React"],
+      backend: ["Ruby", "JS", "CJS"],
+  }
+}
+```
 
-I'm Bryan Bernardo Parreira, a FullStack AI Developer specializing in scalable web applications and digital solutions. I focus on solving complex problems through clean, efficient code while staying current with emerging technologies. I continuously expand my expertise in modern frameworks and development best practices, contributing to projects that deliver measurable value for users and businesses.
+#### My GitHub Data :octocat:
+> 🏆 420+ Contributions in the Year 2021
+ > 
+> 📜 400+ Commits on GitHub
+ > 
+> 🔑 200+ Contribution in Private Repos
+ > 
 
-<p align="left">
-    <a href="https://github.com/BryanParreira?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total stars" 
-            title="Total GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/BryanParreira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-        />
-    </a>
-    <a href="https://github.com/BryanParreira?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/BryanParreira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
+#### Popular Projects
+<a href="https://github.com/BryanParreira/to-do-list-flask">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BryanParreira&repo=to-do-list-flask&theme=onedark" />
+</a>    
+<a href="https://github.com/mrbluebird2/BryanParreira.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BryanParreira&repo=mrbluebird2.github.io&theme=onedark"/>
+</a>
+
+#### Trophies
+
+<p align="left"> <a href="https://github.com/bryanparreira/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BryanParreira&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
+
+#### Stats
+<a href="https://github.com/BryanParreira/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BryanParreira&show_icons=true&include_all_commits=true&theme=onedark" alt="Bryan's github stats" />
+</a>
+<a href="https://github.com/BryanParreira/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BryanParreira&layout=compact&theme=onedark" />
+</a>
+<br />
+<br />
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanParreira&theme=onedark" alt="BryanParreira" />
 </p>
 
-<img 
- align="left" 
- alt="HTML"
- title="HTML" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
- align="left" 
- alt="CSS" 
- title="CSS"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
- align="left" 
- alt="JavaScript" 
- title="JavaScript"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
- align="left" 
- alt="TypeScript"
- title="TypeScript" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
- align="left" 
- alt="React"
- title="React" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
- align="left" 
- alt="Next.js" 
- title="Next.js"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
- align="left" 
- alt="Bootstrap"
- title="Bootstrap" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
- align="left" 
- alt="Tailwind" 
- title="Tailwind"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
- align="left" 
- alt="SASS" 
- title="SASS"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
- align="left" 
- alt="PHP" 
- title="PHP"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
- align="left" 
- alt="Laravel" 
- title="Laravel"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
- align="left" 
- alt="JQuery" 
- title="JQuery"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
- align="left" 
- alt="Git" 
- title="Git"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
- align="left" 
- alt="Python" 
- title="Python"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<br/>
-<br/>
+#### Contribution Graph
+[![Bryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=BryanParreira&theme=react-dark)](https://github.com/BryanParreira/github-readme-activity-graph)
+<!---
+MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BryanParreira&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
-  />
-<img 
-   align="left" 
-   alt="GitHub Stats" 
-   height="200" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanParreira&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" 
-/>
-</p>
+#### I'm an Early 🐤
+```text
+🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.5% 
+🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5% 
+🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
+```
+
+#### I Spent My Time On
+```text
+💬 Programming Lanuages:
+HTML                     3 hr 50 mins        ███████████░░░░░░░░░░░░░░   46% 
+CSS                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
+Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
+GitHub & Git             57 mins             ███████████████████████░░   95%
+JavaScript               3 hr 40 mins        ██████████████████████░░░   90%
+React                    2 hr 10 mins        █████████████████████████   100%
+
+
+🔥 Editors:
+VS Code                  4 Hours            ██████████████████████████   100% 
+
+💻 Operating System:
+MACOS           Daily      ██████████████████████████   100.0%
+Linux Ubuntu    5 hr       █████████░░░░░░░░░░░░░░░░░    30%      
+```
 
