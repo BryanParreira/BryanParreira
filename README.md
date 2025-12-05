@@ -14,7 +14,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const bryan = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python", "react", "backend dev"],
@@ -40,12 +40,12 @@ const badri = {
 </a>    
 <a href="https://github.com/mrbluebird2/BryanParreira.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BryanParreira&repo=mrbluebird2.github.io&theme=onedark"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BryanParreira&repo=BryanParreira.github.io&theme=onedark"/>
 </a>
 
 #### Trophies
 
-<p align="left"> <a href="https://github.com/bryanparreira/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BryanParreira&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
+<p align="left"> <a href="https://github.com/BryanParreira/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BryanParreira&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="BryanParreira"></a></p>
 
 #### Stats
 <a href="https://github.com/BryanParreira/github-readme-stats">
