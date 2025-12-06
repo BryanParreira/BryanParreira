@@ -7,9 +7,9 @@
 <p>I am a full stack developer, I'm a Competitive Programmer.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @BryanParreira</li>
-  <li>🌱 I’m currently learning about local Dev.</li>
-  <li>💼 I'm a Full Stack Developer.</li>
+  <li> Hi, I’m @BryanParreira</li>
+  <li> I’m currently learning about local Dev.</li>
+  <li> I'm a Full Stack Developer.</li>
 </ul>
 
 #### A little more about me
@@ -47,12 +47,7 @@ const bryan = {
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanParreira&theme=onedark" alt="BryanParreira" />
 </p>
 
-<!---
-MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-#### I'm an Early 🐤
+#### My Work Time
 ```text
 🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
 🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.5% 
