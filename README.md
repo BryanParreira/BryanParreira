@@ -8,8 +8,8 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li> Hi, I’m @BryanParreira</li>
-  <li> I’m currently learning about local Dev.</li>
-  <li> I'm a Full Stack Developer.</li>
+  <li> I’m currently focusing in local Dev.</li>
+  <li> I'm a AI Full Stack Developer.</li>
 </ul>
 
 #### A little more about me
