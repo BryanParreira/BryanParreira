@@ -1,88 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:F72EE2&height=200&section=header&text=Bryan%20Parreira&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Cybersecurity%20%2F%20Networking%20%7C%20Local-First%20AI%20Tools&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=500&size=24&pause=1000&color=F72EE2&center=true&vCenter=true&width=650&lines=Building+local-first+tools+that+replace+paid+SaaS;CIT+%2F+Cybersecurity+student+%40+MNSU+Mankato;Running+WebVisionRank+%26+Nord+Lab;Currently+shipping%3A+Velo%2C+Sono%2C+Scribe" />
-</a>
-
-</div>
-
-## About Me
-
-I'm a Computer Information Technology student at Minnesota State University, Mankato (cybersecurity & networking focus), and I run two things on the side:
-
-- **Grovic Data** — a Brazil-based startup building AI-driven data integration and process automation for enterprise operations
-- **Valerium Portal** — Grovic Data's flagship product, centralizing Open Finance, ERP, and CRM data with AI agents that automate and resolve operational bottlenecks
-
-Outside of client work, I build local-first tools for myself — mostly macOS apps that swap cloud AI dependencies for on-device inference, plus a homegrown SIEM and a fair amount of RF/hardware hacking.
-
-```javascript
-const bryan = {
-  pronouns: "he/him",
-  location: "Minnesota, USA",
-  languages: ["English", "Spanish", "Portuguese"],
-  focus: ["cybersecurity", "local-first AI", "full-stack dev"],
-  currentlyBuilding: ["Velo", "Sono", "Scribe"],
-  currentlyLearning: ["Zero Trust architecture", "advanced networking"],
-  toolsIReachFor: ["Swift/AppKit", "Ollama", "Next.js", "FastAPI", "n8n"],
-}
+```
+██████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
+██████╔╝██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║
+██╔══██╗██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║
+██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-## What I'm Building
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A1A1AA&center=true&vCenter=true&width=600&lines=root%40bryan%3A~%24+whoami;cybersecurity+%2B+networking+%40+MNSU+Mankato;building+local-first+AI+tools;probably+wardriving+right+now" alt="typing-svg" />
 
-| Project | What it does | Stack |
-|---|---|---|
-| **Velo** | AI-powered note-taking app | Swift, Ollama |
-| **Sono** | Local voice-to-text, a self-hosted alternative to Whisper Flow | Swift, whisper.cpp, Ollama (Gemma) |
-| **Scribe** | System-wide AI autocomplete / autosuggestion for macOS | Swift, AppKit, AXUIElement, CGEventTap, Ollama |
-| **Vex** | Local-first network security monitoring / SIEM with network-aware data isolation | Electron, Next.js, FastAPI, PostgreSQL, Redis |
-
-The common thread: replacing paid SaaS tools with local, privacy-first alternatives that run entirely on-device.
-
-## Cybersecurity & Hardware
-
-I wardrive under **GhostInDavoid** on WiGLE, and my hardware bench includes a Flipper Zero, ESP32 Marauder v8, LilyGO T-Dongle S3 (USB Army Knife firmware), Alfa AWUS036AXM, GL.iNet Slate 7, and a C5 Wardriver. I use Kali Linux for firmware flashing and pentesting workflows, and write custom DuckyScript payloads for recon.
-
-## Tech Stack
-
-<div align="center">
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=BryanParreira&color=a1a1aa&style=flat-square&label=connections+established)
+![Status](https://img.shields.io/badge/status-online-a1a1aa?style=flat-square&logo=statuspage&logoColor=white)
 
 </div>
 
-## GitHub Stats
+<br>
+
+```bash
+root@bryan:~$ cat about.md
+```
+
+> CIT student @ Minnesota State University, Mankato — cybersecurity & networking track.
+> I build local-first tools that don't phone home, and I break into my own network for fun.
+> Trilingual: EN / ES / PT · Based in Minnesota.
+
+```bash
+root@bryan:~$ ls -la ./currently-building/
+```
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**`velo/`**
+AI-powered note-taking app
+`Swift` `Ollama`
+
+</td>
+<td width="33%" valign="top">
+
+**`sono/`**
+Local voice-to-text — self-hosted alt to Whisper Flow
+`Swift` `whisper.cpp` `Gemma`
+
+</td>
+<td width="33%" valign="top">
+
+**`scribe/`**
+System-wide AI autocomplete for macOS
+`Swift` `AppKit` `CGEventTap`
+
+</td>
+</tr>
+</table>
+
+```bash
+root@bryan:~$ ls -la ./also-running/
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`vex/`** — local-first SIEM
+Network-aware monitoring with gateway MAC fingerprinting
+`Electron` `Next.js` `FastAPI` `PostgreSQL` `Redis`
+
+</td>
+<td width="50%" valign="top">
+
+**`grovic-data/`** — Brasília-based startup
+Building **Valerium Portal** — AI agents that unify ERP / CRM / Open Finance data and kill operational bottlenecks
+
+</td>
+</tr>
+</table>
+
+```bash
+root@bryan:~$ cat /var/log/hardware.log
+```
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BryanParreira&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanParreira&layout=compact&theme=onedark&hide_border=true" />
+
+`Flipper Zero` · `ESP32 Marauder v8` · `LilyGO T-Dongle S3` · `Alfa AWUS036AXM` · `GL.iNet Slate 7` · `C5 Wardriver`
+
+wardriving as **GhostInDavoid** on WiGLE 📡 · flashing firmware from a Kali VM at 2am
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `$ cat /proc/stack`
+
+![Swift](https://img.shields.io/badge/-Swift-18181B?style=flat-square&logo=swift&logoColor=A1A1AA)
+![Python](https://img.shields.io/badge/-Python-18181B?style=flat-square&logo=python&logoColor=A1A1AA)
+![TypeScript](https://img.shields.io/badge/-TypeScript-18181B?style=flat-square&logo=typescript&logoColor=A1A1AA)
+![React](https://img.shields.io/badge/-React-18181B?style=flat-square&logo=react&logoColor=A1A1AA)
+![Next.js](https://img.shields.io/badge/-Next.js-18181B?style=flat-square&logo=next.js&logoColor=A1A1AA)
+![FastAPI](https://img.shields.io/badge/-FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=A1A1AA)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=A1A1AA)
+![Electron](https://img.shields.io/badge/-Electron-18181B?style=flat-square&logo=electron&logoColor=A1A1AA)
+![n8n](https://img.shields.io/badge/-n8n-18181B?style=flat-square&logo=n8n&logoColor=A1A1AA)
+![Ollama](https://img.shields.io/badge/-Ollama-18181B?style=flat-square&logo=ollama&logoColor=A1A1AA)
+![Linux](https://img.shields.io/badge/-Linux-18181B?style=flat-square&logo=linux&logoColor=A1A1AA)
+![Kali](https://img.shields.io/badge/-Kali%20Linux-18181B?style=flat-square&logo=kalilinux&logoColor=A1A1AA)
+
+</div>
+
+<br>
+
+```bash
+root@bryan:~$ ./run_diagnostics.sh --stats
+```
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BryanParreira&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=e4e4e7&icon_color=a1a1aa&text_color=a1a1aa" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanParreira&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=e4e4e7&text_color=a1a1aa" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanParreira&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=A1A1AA&fire=E4E4E7&currStreakLabel=E4E4E7&sideLabels=A1A1AA&currStreakNum=E4E4E7&sideNums=A1A1AA&dates=71717A" alt="streak stats" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=BryanParreira&theme=dark&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8" alt="trophies" />
+
+</div>
+
+```bash
+root@bryan:~$ cat /var/log/contributions.log
+```
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!-- this section renders a live contribution snake once the workflow below is enabled -->
+<img src="https://raw.githubusercontent.com/BryanParreira/BryanParreira/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<!--END_SECTION:activity-->
+
+</div>
+
+<br>
+
+```bash
+root@bryan:~$ cat contact.txt
+```
+
+<div align="center">
+
+[![Grovic Data](https://img.shields.io/badge/-Grovic%20Data-18181B?style=flat-square&logo=googlechrome&logoColor=A1A1AA)](https://grovicdata.com/en/)
+[![Valerium](https://img.shields.io/badge/-Valerium-18181B?style=flat-square)](https://valerium.grovicdata.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=A1A1AA)](https://linkedin.com/in/your-handle)
+[![WiGLE](https://img.shields.io/badge/-WiGLE%3A%20GhostInDavoid-18181B?style=flat-square)](https://wigle.net)
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanParreira&theme=onedark&hide_border=true" alt="BryanParreira streak stats" />
-</div>
 
-## Connect
-
-<div align="center">
-
-<!-- Swap these placeholders for your real links -->
-[![Website](https://img.shields.io/badge/Grovic%20Data-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grovicdata.com/en/)
-[![Valerium](https://img.shields.io/badge/Valerium-7AB55C?style=for-the-badge)](https://valerium.grovicdata.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+```
+$ exit
+process terminated. connection closed.
+```
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72EE2,100:0F0F0F&height=100&section=footer" width="100%"/>
