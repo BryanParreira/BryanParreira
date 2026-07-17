@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A1A1AA&center=true&vCenter=true&width=600&lines=root%40bryan%3A~%24+whoami;cybersecurity+%2B+networking+%40+MNSU+Mankato;building+local-first+AI+tools;probably+wardriving+right+now" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A1A1AA&center=true&vCenter=true&width=600&lines=root%40bryan%3A~%24+whoami;cybersecurity+%2B+networking+%40+MNSU+Mankato;building+local-first+AI+tools;probably+wardriving+right+now" alt="typing-svg" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BryanParreira&color=a1a1aa&style=flat-square&label=connections+established)
 ![Status](https://img.shields.io/badge/status-online-a1a1aa?style=flat-square&logo=statuspage&logoColor=white)
@@ -23,7 +23,7 @@ root@bryan:~$ cat about.md
 ```
 
 > CIT student @ Minnesota State University, Mankato — cybersecurity & networking track.
-> I build local-first tools that don't phone home, and I break into my own network for fun.
+> Local-first tooling and network security, mostly for my own systems.
 > Trilingual: EN / ES / PT · Based in Minnesota.
 
 ```bash
@@ -122,7 +122,7 @@ root@bryan:~$ ./run_diagnostics.sh --stats
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BryanParreira&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=e4e4e7&icon_color=a1a1aa&text_color=a1a1aa" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanParreira&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=e4e4e7&text_color=a1a1aa" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanParreira&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=A1A1AA&fire=E4E4E7&currStreakLabel=E4E4E7&sideLabels=A1A1AA&currStreakNum=E4E4E7&sideNums=A1A1AA&dates=71717A" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=BryanParreira&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=A1A1AA&fire=E4E4E7&currStreakLabel=E4E4E7&sideLabels=A1A1AA&currStreakNum=E4E4E7&sideNums=A1A1AA&dates=71717A" alt="streak stats" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=BryanParreira&theme=dark&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8" alt="trophies" />
 
