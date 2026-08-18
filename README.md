@@ -11,6 +11,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=600&lines=breaking+things+to+understand+them;cybersecurity+%26+networking+student;wardriving+one+SSID+at+a+time;hunting+vulnerabilities+before+they+hunt+you" alt="Typing SVG" />
 
+<br>
+
+<img src="https://vbr.nathanchung.dev/badge?page_id=BryanParreira.BryanParreira&color=00FF9C" alt="visitors" />
+
 </div>
 
 <br>
@@ -84,3 +88,16 @@
 <a href="https://webvisionrank.com"><img src="https://img.shields.io/badge/WEBVISIONRANK-000000?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
 
 </div>
+
+<br>
+
+<details>
+<summary><code>build notes</code></summary>
+<br>
+
+- Typing intro: [readme-typing-svg](https://readme-typing-svg.demolab.com)
+- Visitor badge: [vbr.nathanchung.dev](https://vbr.nathanchung.dev)
+- Badges: [shields.io](https://shields.io)
+- ASCII banner: generated with a block-letter font
+
+</details>
