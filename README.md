@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=600&lines=cybersecurity+%26+networking+student;full+stack+developer;hardware+hacking+%2B+wardriving;building+valerium+%40+grovic+data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=600&lines=breaking+things+to+understand+them;cybersecurity+%26+networking+student;wardriving+one+SSID+at+a+time;hunting+vulnerabilities+before+they+hunt+you" alt="Typing SVG" />
 
 </div>
 
@@ -27,13 +27,13 @@
 │  > Cybersecurity & Networking student @ MSU Mankato                │
 │  > Founder @ WebVisionRank — AI automation, security, web dev      │
 │  > Co-founder @ Grovic Data — building Valerium                    │
-│  > Based in Austin, MN  |  EN / ES / PT                            │
+│  > EN / ES / PT                                                    │
 │                                                                    │
 │  $ ls ./interests                                                 │
 │  wardriving/  hardware-hacking/  network-security/  pentesting/    │
 │                                                                    │
 │  $ echo $STATUS                                                   │
-│  currently rebuilding ghost-hub after an SD card failure          │
+│  scanning networks, capturing packets, trusting no one            │
 │                                                                    │
 └──────────────────────────────────────────────────────────────────┘
 ```
