@@ -20,7 +20,7 @@
 ```python
 class Bryan:
     def __init__(self):
-        self.location  = "Austin, MN"
+        self.location  = "MN"
         self.role      = ["Cybersecurity Enthusiast", "Founder @ WebVisionRank", "Co-founder @ Grovic Data"]
         self.studying  = "CIT — Cybersecurity & Networking @ MSU Mankato"
         self.languages = ["English", "Spanish", "Portuguese"]
