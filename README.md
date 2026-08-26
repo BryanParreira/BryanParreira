@@ -84,6 +84,6 @@
 <a href="https://github.com/BryanParreira"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/bryan_parreira/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
 <a href="mailto:bryan.parreira@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
-<a href="https://webvisionrank.com"><img src="https://img.shields.io/badge/WEBVISIONRANK-000000?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
+<a href="https://bryanparreira.com/"><img src="https://img.shields.io/badge/WEBVISIONRANK-000000?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
 
 </div>
