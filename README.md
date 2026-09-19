@@ -34,7 +34,6 @@ Host is up (0.0001s latency).
 
 PORT      STATE   SERVICE        VERSION
 22/tcp    open    education      CIT — Cybersecurity & Networking @ MSU Mankato
-80/tcp    open    founder        WebVisionRank — AI automation, security, web dev
 443/tcp   open    co-founder     Grovic Data — building Valerium (ERP / CRM / Open Finance)
 1337/tcp  open    research       wardriving · hardware hacking · network security · pentesting
 
@@ -89,7 +88,6 @@ Nmap done: 1 human scanned — trusting no one.
 
 ```diff
 + [ACTIVE]  building Valerium @ Grovic Data
-+ [ACTIVE]  shipping AI automation & security work @ WebVisionRank
 + [ACTIVE]  developing Parla & Skald
 ! [LEARN]   cybersecurity & networking coursework @ MSU Mankato
 # [FIELD]   wardriving, packet captures, hardware tinkering
