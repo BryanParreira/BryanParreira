@@ -93,20 +93,6 @@ Nmap done: 1 human scanned — trusting no one.
 # [FIELD]   wardriving, packet captures, hardware tinkering
 ```
 
-<br>
-
-### `> ./telemetry --stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BryanParreira&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&icon_color=00FF9C&border_color=1b3a2c&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanParreira&layout=compact&hide_border=false&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&border_color=1b3a2c" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanParreira&bg_color=0d1117&color=c9d1d9&line=00FF9C&point=ffffff&area=true&area_color=00FF9C&hide_border=false&border_color=1b3a2c" width="100%" />
-
-</div>
-
-<br>
 
 ### `> ./connect.sh --list`
 
