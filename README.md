@@ -50,7 +50,7 @@ Nmap done: 1 human scanned — trusting no one.
 | | Project | What it is |
 |:-:|:--|:--|
 | <img src="https://raw.githubusercontent.com/BryanParreira/Parla/main/src-tauri/icons/128x128@2x.png" width="48" alt="Parla" /> | **[Parla](https://github.com/BryanParreira/Parla)** | Fast, private dictation for macOS. Hold a key, talk, and your words are typed into any app — speech recognition and cleanup run entirely on your Mac. |
-| <img src="https://raw.githubusercontent.com/BryanParreira/Skald/master/apps/desktop/src-tauri/icons/stable/128x128@2x.png" width="48" alt="Notiz" /> | **[Skald](https://github.com/BryanParreira/Skald)** | Local-first AI meeting assistant for macOS. Records, transcribes and writes up your meetings on-device into plain Markdown you own — no bot joins the call. |
+| <img src="https://raw.githubusercontent.com/BryanParreira/Skald/master/apps/desktop/src-tauri/icons/stable/128x128@2x.png" width="48" alt="Notiz" /> | **[Notiz](https://github.com/BryanParreira/Skald)** | Local-first AI meeting assistant for macOS. Records, transcribes and writes up your meetings on-device into plain Markdown you own — no bot joins the call. |
 
 <br>
 
