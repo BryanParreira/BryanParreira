@@ -45,17 +45,6 @@ Nmap done: 1 human scanned — trusting no one.
 
 ### `> ls ./projects --featured`
 
-<div align="center">
-
-<a href="https://github.com/BryanParreira/Parla">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BryanParreira&repo=Parla&hide_border=false&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&icon_color=00FF9C&border_color=1b3a2c" />
-</a>
-<a href="https://github.com/BryanParreira/Skald">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BryanParreira&repo=Skald&hide_border=false&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&icon_color=00FF9C&border_color=1b3a2c" />
-</a>
-
-</div>
-
 <br>
 
 | | Project | What it is |
