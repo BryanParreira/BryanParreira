@@ -53,14 +53,12 @@ Nmap done: 1 human scanned — trusting no one.
 <a href="https://github.com/BryanParreira/Skald">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BryanParreira&repo=Skald&hide_border=false&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&icon_color=00FF9C&border_color=1b3a2c" />
 </div>
-
 <br>
 
 | | Project | What it is |
 |:-:|:--|:--|
 | 🗣️ | **[Parla](https://github.com/BryanParreira/Parla)** | _One-line description of Parla goes here._ |
 | 📜 | **[Skald](https://github.com/BryanParreira/Skald)** | _One-line description of Skald goes here._ |
-| 🛡️ | **[Davoid](https://github.com/BryanParreira/Davoid)** | Go-based CLI/TUI pentesting framework — orchestrates tools like nmap & aircrack-ng and tracks engagements. |
 
 <br>
 
