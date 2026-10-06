@@ -51,7 +51,8 @@ Nmap done: 1 human scanned — trusting no one.
 |:-:|:--|:--|
 | <img src="https://raw.githubusercontent.com/BryanParreira/Parla/main/src-tauri/icons/128x128@2x.png" width="48" alt="Parla" /> | **[Parla](https://github.com/BryanParreira/Parla)** | Fast, private dictation for macOS. Hold a key, talk, and your words are typed into any app — speech recognition and cleanup run entirely on your Mac. |
 | <img src="https://raw.githubusercontent.com/BryanParreira/Skald/master/apps/desktop/src-tauri/icons/stable/128x128@2x.png" width="48" alt="Notiz" /> | **[Notiz](https://github.com/BryanParreira/Skald)** | Local-first AI meeting assistant for macOS. Records, transcribes and writes up your meetings on-device into plain Markdown you own — no bot joins the call. |
-| <img src="https://raw.githubusercontent.com/Rune/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" width="48" alt="Rune" /> | **[Rune](https://github.com/BryanParreira/Rune)** | Local-first terminal for macOS with Warp-style command blocks and a pinned input editor. Optional AI runs through your own Ollama — no accounts, no telemetry, no cloud. |
+| <img src="https://raw.githubusercontent.com/BryanParreira/Rune/main/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" width="48" alt="Rune" /> | **[Rune](https://github.com/BryanParreira/Rune)** | A native macOS terminal, refined. Every command lives in its own block, with a modern input editor and a private AI that runs entirely on your Mac. |
+| <img src="https://raw.githubusercontent.com/BryanParreira/niv-on/main/src-tauri/icons/128x128@2x.png" width="48" alt="Niv.ON" /> | **[Niv.ON](https://github.com/BryanParreira/niv-on)** | Wireless & LAN traffic monitor. Identifies every device on your network, learns how each one normally behaves, and flags anomalies in real time — mapped to MITRE ATT&CK. |
 
 <br>
 
@@ -75,7 +76,7 @@ Nmap done: 1 human scanned — trusting no one.
 
 ```diff
 + [ACTIVE]  building Valerium @ Grovic Data
-+ [ACTIVE]  developing Parla & Skald
++ [ACTIVE]  developing Parla, Skald, Rune & Niv.ON
 ! [LEARN]   cybersecurity & networking coursework @ MSU Mankato
 # [FIELD]   wardriving, packet captures, hardware tinkering
 ```
