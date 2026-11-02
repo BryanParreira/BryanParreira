@@ -53,6 +53,7 @@ Nmap done: 1 human scanned — trusting no one.
 | <img src="https://raw.githubusercontent.com/BryanParreira/Notiz/master/apps/desktop/src-tauri/icons/stable/128x128@2x.png" width="48" alt="Notiz" /> | **[Notiz](https://github.com/BryanParreira/Notiz)** | Local-first AI meeting assistant for macOS. Records, transcribes and writes up your meetings on-device into plain Markdown you own — no bot joins the call. |
 | <img src="https://raw.githubusercontent.com/BryanParreira/Rune/main/docs/assets/rune-icon.png" width="48" alt="Rune" /> | **[Rune](https://github.com/BryanParreira/Rune)** | A native macOS terminal, refined. Every command lives in its own block, with a modern input editor and a private AI that runs entirely on your Mac. |
 | <img src="https://raw.githubusercontent.com/BryanParreira/Orbit/main/docs/images/icon.png" width="48" alt="Orbit" /> | **[Orbit](https://github.com/BryanParreira/Orbit)** | Virtual machines at native speed for Apple Silicon. macOS, Linux and Windows guests in a quiet, native Mac app — with instant snapshots, suspend & resume, and no background services. |
+| 🛡️ | **[Bastion](https://github.com/BryanParreira/bastion)** | A network firewall and privacy guard for macOS. See which apps are talking to the internet, block what you don't trust, and keep your traffic yours. |
 
 
 <br>
@@ -77,7 +78,7 @@ Nmap done: 1 human scanned — trusting no one.
 
 ```diff
 + [ACTIVE]  building Valerium @ Grovic Data
-+ [ACTIVE]  developing Parla, Skald, Rune, Orbit & Niv.ON
++ [ACTIVE]  developing Parla, Notiz, Rune, Orbit & Bastion
 ! [LEARN]   cybersecurity & networking coursework @ MSU Mankato
 # [FIELD]   wardriving, packet captures, hardware tinkering
 ```
